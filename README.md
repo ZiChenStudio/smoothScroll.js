@@ -1,5 +1,7 @@
 # SmoothScroll.js :hammer_and_wrench:
 
+[English](README.md)|[简体中文](doc/README-zh_CN.md)
+
 SmoothScroll.js is a lightweight JavaScript library that provides smooth scrolling functionality for your web projects. With just a few lines of code, you can enhance the user experience by adding smooth scrolling to anchor links on your website.
 
 ## Features :star2:
@@ -15,6 +17,7 @@ To start using smoothScroll.js, you can download the file to your local host and
 ```html
 <script src="smoothscroll.js"></script>
 ```
+
 You can also use CDN.
 
 ```html
@@ -32,6 +35,7 @@ or
 ```html
 <script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/smoothScroll.js/dist/smoothScroll.min.js"></script>
 ```
+
 ## Usage :wrench:
 
 Once the library is included in your project, you can use the smoothScroll function to add smooth scrolling behavior to your anchor links. Here's an example of how to use it:
