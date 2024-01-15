@@ -15,7 +15,23 @@ To start using smoothScroll.js, you can download the file to your local host and
 ```html
 <script src="smoothscroll.js"></script>
 ```
+You can also use CDN.
 
+```html
+<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/smoothScroll.js/dist/smoothScroll.js"></script>
+```
+
+There are also min versions that can achieve the same effect.
+
+```html
+<script src="smoothscroll.min.js"></script>
+```
+
+or
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/smoothScroll.js/dist/smoothScroll.min.js"></script>
+```
 ## Usage :wrench:
 
 Once the library is included in your project, you can use the smoothScroll function to add smooth scrolling behavior to your anchor links. Here's an example of how to use it:
