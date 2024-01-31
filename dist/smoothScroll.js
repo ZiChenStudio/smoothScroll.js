@@ -1,20 +1,19 @@
-/*!
- * smoothscroll.js JavaScript Library v1.0
- * github.com/ZiChenStudio/smoothscroll.js
+/**
+ * @file smoothscroll.js JavaScript Library v1.0
+ * @see github.com/ZiChenStudio/smoothscroll.js
  *
- * Copyright (c) 2024 ZiChenStudio Official
- * Released under the MIT License
- * github.com/ZiChenStudio/smoothscroll.js/blob/main/LICENSE
+ * @license MIT License
+ * @see github.com/ZiChenStudio/smoothscroll.js/blob/main/LICENSE
  *
- * Date(UTC): 2024-01-15
- *
+ * @date 2024-01-15 (UTC)
  */
 function smoothscroll(event) {
-    event.preventDefault();
-    const targetId = event.target.getAttribute("href");
-    const targetElement = document.querySelector(targetId);
-    window.scrollTo({
-        top: targetElement.offsetTop,
-        behavior: "smooth",
-    });
+  event.preventDefault();
+  const targetId = event.target.getAttribute("href");
+  const targetElement = document.querySelector(targetId);
+  window.scrollTo({
+    top: targetElement.offsetTop,
+    behavior: "smooth",
+  });
 }
+
