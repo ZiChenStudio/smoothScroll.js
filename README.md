@@ -1,8 +1,8 @@
-# SmoothScroll.js :hammer_and_wrench:
+# smoothscroll.js :hammer_and_wrench:
 
 [English](README.md)|[简体中文](doc/README-zh_CN.md)
 
-SmoothScroll.js is a lightweight JavaScript library that provides smooth scrolling functionality for your web projects. With just a few lines of code, you can enhance the user experience by adding smooth scrolling to anchor links on your website.
+smoothscroll.js is a lightweight JavaScript library that provides smooth scrolling functionality for your web projects. With just a few lines of code, you can enhance the user experience by adding smooth scrolling to anchor links on your website.
 
 ## Features :star2:
 
@@ -12,7 +12,7 @@ SmoothScroll.js is a lightweight JavaScript library that provides smooth scrolli
 
 ## Installation :tada:
 
-To start using smoothScroll.js, you can download the file to your local host and then add the following `<script>` tag to your HTML file:
+To start using smoothscroll.js, you can download the file to your local host and then add the following `<script>` tag to your HTML file:
 
 ```html
 <script src="smoothscroll.js"></script>
@@ -21,7 +21,7 @@ To start using smoothScroll.js, you can download the file to your local host and
 You can also use CDN.
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/smoothScroll.js/dist/smoothScroll.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/smoothscroll.js/dist/smoothscroll.js"></script>
 ```
 
 There are also min versions that can achieve the same effect.
@@ -33,26 +33,26 @@ There are also min versions that can achieve the same effect.
 or
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/smoothScroll.js/dist/smoothScroll.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/smoothscroll.js/dist/smoothscroll.min.js"></script>
 ```
 
 ## Usage :wrench:
 
-Once the library is included in your project, you can use the smoothScroll function to add smooth scrolling behavior to your anchor links. Here's an example of how to use it:
+Once the library is included in your project, you can use the smoothscroll function to add smooth scrolling behavior to your anchor links. Here's an example of how to use it:
 
 ```javascript
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', smoothScroll);
+    anchor.addEventListener('click', smoothscroll);
 });
 ```
 
 ## Contributing :briefcase:
 
-If you'd like to contribute to the development of SmoothScroll.js, please feel free to submit a [pull request](https://github.com/ZiChenStudio/smoothScroll.js/pulls) or open an [issue](https://github.com/ZiChenStudio/smoothScroll.js/issues) on the GitHub repository.
+If you'd like to contribute to the development of smoothscroll.js, please feel free to submit a [pull request](https://github.com/ZiChenStudio/smoothscroll.js/pulls) or open an [issue](https://github.com/ZiChenStudio/smoothscroll.js/issues) on the GitHub repository.
 
 ## Support :handshake:
 
-If you have any questions or need assistance with using SmoothScroll.js, please don't hesitate to reach out to us by opening an issue on the GitHub repository.
+If you have any questions or need assistance with using smoothscroll.js, please don't hesitate to reach out to us by opening an issue on the GitHub repository.
 
 ## LICENSE :page_facing_up:
 
