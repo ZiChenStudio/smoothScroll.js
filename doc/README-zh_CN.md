@@ -21,7 +21,7 @@ smoothscroll.js是一个轻量级的JavaScript库，为您的Web项目提供平�
 您也可以使用CDN。
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/smoothscroll.js/dist/smoothscroll.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/zichenstudio/smoothscroll.js/dist/smoothscroll.js"></script>
 ```
 
 还有可以实现相同效果的min版本。
@@ -33,7 +33,7 @@ smoothscroll.js是一个轻量级的JavaScript库，为您的Web项目提供平�
 or
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/smoothscroll.js/dist/smoothscroll.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/zichenstudio/smoothscroll.js/dist/smoothscroll.min.js"></script>
 ```
 
 ## 使用 :wrench:
@@ -48,11 +48,11 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 ## 贡献 :briefcase:
 
-如果您想为smoothscroll.js的开发做出贡献，请随时在GitHub存储库上提交[pull request](https://github.com/ZiChenStudio/smoothscroll.js/pulls)或者提出[issue](https://github.com/ZiChenStudio/smoothscroll.js/issues)。
+如果您想为smoothscroll.js的开发做出贡献，请随时在GitHub存储库上提交[pull request](https://github.com/zichenstudio/smoothscroll.js/pulls)或者提出[issue](https://github.com/zichenstudio/smoothscroll.js/issues)。
 
 ## 支持 :handshake:
 
-如果您有任何问题或需要使用smoothscroll.js的帮助，请随时通过在GitHub存储库上提出一个[issue](https://github.com/ZiChenStudio/smoothscroll.js/issues)来与我们联系。
+如果您有任何问题或需要使用smoothscroll.js的帮助，请随时通过在GitHub存储库上提出一个[issue](https://github.com/zichenstudio/smoothscroll.js/issues)来与我们联系。
 
 ## LICENSE :page_facing_up:
 

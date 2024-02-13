@@ -21,7 +21,7 @@ To start using smoothscroll.js, you can download the file to your local host and
 You can also use CDN.
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/smoothscroll.js/dist/smoothscroll.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/zichenstudio/smoothscroll.js/dist/smoothscroll.js"></script>
 ```
 
 There are also min versions that can achieve the same effect.
@@ -33,7 +33,7 @@ There are also min versions that can achieve the same effect.
 or
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/ZiChenStudio/smoothscroll.js/dist/smoothscroll.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/zichenstudio/smoothscroll.js/dist/smoothscroll.min.js"></script>
 ```
 
 ## Usage :wrench:
@@ -48,11 +48,11 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 ## Contributing :briefcase:
 
-If you'd like to contribute to the development of smoothscroll.js, please feel free to submit a [pull request](https://github.com/ZiChenStudio/smoothscroll.js/pulls) or open an [issue](https://github.com/ZiChenStudio/smoothscroll.js/issues) on the GitHub repository.
+If you'd like to contribute to the development of smoothscroll.js, please feel free to submit a [pull request](https://github.com/zichenstudio/smoothscroll.js/pulls) or open an [issue](https://github.com/ZiChenStudio/smoothscroll.js/issues) on the GitHub repository.
 
 ## Support :handshake:
 
-If you have any questions or need assistance with using smoothscroll.js, please don't hesitate to reach out to us by opening an issue on the GitHub repository.
+If you have any questions or need assistance with using smoothscroll.js, please don't hesitate to reach out to us by opening an [issue](https://github.com/zichenstudio/smoothscroll.js/issues) on the GitHub repository.
 
 ## LICENSE :page_facing_up:
 
